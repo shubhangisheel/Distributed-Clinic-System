@@ -1,0 +1,12 @@
+ Manager log created at Sun Jul 03 16:36:59 EDT 2016
+
+Doctor record with firstName Shubham was created at Sun Jul 03 16:37:21 EDT 2016
+
+Record updated with firstNameShubhangifor DR1001 was NOT updated at Sun Jul 03 16:38:11 EDT 2016
+
+Nurse record with firstName Shu was created at Sun Jul 03 16:38:42 EDT 2016
+
+Record updated with firstNameSheeeeeefor DR10001 was updated at Sun Jul 03 16:39:23 EDT 2016
+
+Count was receieved 2 atSun Jul 03 16:39:42 EDT 2016
+

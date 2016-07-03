@@ -1,0 +1,10 @@
+MTL server created at Sun Jul 03 16:36:47 EDT 2016and a corresponding remote object registered with RMI Registry
+
+MTL server  added a doctor record with RecordID: DR10001 at Sun Jul 03 16:37:21 EDT 2016
+
+MTL server  added a nurse record with RecordID: NR10002 at Sun Jul 03 16:38:42 EDT 2016
+
+MTL server  Successfully updated RecordID: DR10001 at Sun Jul 03 16:39:23 EDT 2016
+
+MTL server Count sent to client 20Sun Jul 03 16:39:42 EDT 2016
+
