@@ -1,0 +1,6 @@
+MTL server created at Tue Jul 05 04:08:30 EDT 2016and a corresponding remote object registered with RMI Registry
+
+MTL server  added a doctor record with RecordID: DR10001 at Tue Jul 05 04:08:30 EDT 2016
+
+In MTL server, recordIDDR10001 is transferred to DDO at Tue Jul 05 04:08:46 EDT 2016
+

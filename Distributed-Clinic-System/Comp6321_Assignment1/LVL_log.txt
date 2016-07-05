@@ -1,0 +1,4 @@
+LVL server created at Tue Jul 05 04:08:30 EDT 2016and a corresponding remote object registered with RMI Registry
+
+LVL server  added a doctor record with RecordID: DR10001 at Tue Jul 05 04:08:30 EDT 2016
+

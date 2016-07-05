@@ -1,0 +1,4 @@
+ Manager log created at Tue Jul 05 04:08:33 EDT 2016
+
+RecordID: DR10001 is successfully transferred to destination location DDO at Tue Jul 05 04:08:46 EDT 2016
+
